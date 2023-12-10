@@ -1,0 +1,184 @@
+{
+	
+  "ironSource_app_key": "156591b31",
+  "ironSource_banner_id": "DefaultBanner",
+  "ironSource_interstitial_id": "DefaultInterstitial",
+  "ironsource_rewarded_id": "DefaultRewarded",
+
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+ 
+  "applovin_banner_id": "13482be8f771efc7",
+  "applovin_interstitial_id": "37c0fd7e2939a3be",
+  "applovin_native_id": "76d87171404718ed",
+  "applovin_rewarded_id": "6405227d47f8fe55",
+  
+  "yandex_banner_id": "R-M-2376521-1",
+  "yandex_interstitial_id": "R-M-2376521-3",
+  "yandex_native_id": "R-M-2376521-2",
+  "yandex_rewarded_id": "R-M-2376521-4",
+  "yandex_open_app": "demo-appopenad-yandex",
+  
+  "unity_banner_id": "Banner_Android",
+  "unity_interstitial_id": "Interstitial_Android",
+  "unity_rewarded_id": "Rewarded_Android",
+  "unity_game_id": "5416428",
+  "is_unity_test_mode": true,
+  
+  
+  "Ads Explanation": " yandex | applovin | admob | facebook | ironSource | unity ",
+
+
+  "Interstitial": "yandex",
+  "Banner": "yandex",
+  "Native": "yandex",
+  "Rewarded": "yandex",
+  
+  "clicks_to_show_inter": 1,
+  "native_rate": 2,
+    "onesignal_id": "xxx",
+
+  "guides": [
+	{
+	 "image": "https://i.ytimg.com/vi/tdJ7ojHWiVs/maxresdefault.jpg",
+	 "title": "Introduction: Setting the Stage",
+	 "text": "Briefly introduce Garry's Mod as a sandbox game developed by Facepunch Studios
+Highlight its unique features, such as the absence of predefined goals and the emphasis on user-generated content.",
+	 "text_two": "",
+
+	 "isLocked": false,
+	 "id": 1
+
+	},
+	{
+	 "image": "https://i.imgur.com/GhPje3v.jpg",
+	 "title": "A Brief History of Garry's Mod",
+	 "text": "Provide a brief overview of the game's development and how it evolved over the years Mention key milestones, updates, and the community's role in shaping the game.",
+	 "text_two": "",
+
+	 "isLocked": true,
+	 "id": 2
+	 
+	},
+	{
+	 "image": "https://i.ytimg.com/vi/pLy3wJwLxPA/maxresdefault.jpg",
+	 "title": "Gameplay Mechanics",
+	 "text": "Explain the basic mechanics of Garry's Mod, including the sandbox environment, physics engine, and the diverse range of available tools
+Discuss how players can spawn objects, manipulate the environment, and create their own game modes.",
+	 "text_two": "",
+
+	 "isLocked": false,
+	 "id": 3
+
+	},
+	{
+	"image": "https://i.ytimg.com/vi/KHtPdKi1vy0/maxresdefault.jpg",
+	 "title": "Community and Modding Scene",
+	 "text": "Emphasize the significance of the GMod community in contributing to the game's popularity
+Explore the vibrant modding scene and the plethora of user-created content, from new game modes to custom models and maps.",
+	 "text_two": "",
+
+	 "isLocked": false,
+	 "id": 4
+
+	},
+	{
+	"image": "https://i.ytimg.com/vi/6G_YGsubp-I/maxresdefault.jpg",
+	 "title": "Popular Game Modes",
+	 "text": "Highlight some of the most popular game modes within Garry's Mod, such as Trouble in Terrorist Town (TTT), DarkRP, and Prop Hunt
+Discuss what makes these game modes enjoyable and how they showcase the versatility of the GMod platform.",
+	 "text_two": "",
+
+	 "isLocked": false,
+	 "id": 5
+
+	},
+	{
+	"image": "https://i.ytimg.com/vi/vX1hj3tS_pw/maxresdefault.jpg",
+	 "title": "Challenges and Criticisms",
+	 "text": "Address any challenges or criticisms the game has faced over the years
+Discuss how the development team has responded to community feedback and improved the game.",
+	 "text_two": "",
+
+	 "isLocked": false,
+	 "id": 6
+
+	}
+  ],
+
+  "more_apps": [
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com. super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.superking.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.superking.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.superking.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.superking.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.superking.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.superking.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.superking.parchisi.star"
+	  }
+  ]
+
+}
