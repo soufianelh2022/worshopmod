@@ -47,10 +47,9 @@
 
   "guides": [
 	{
-	 "image": "https://i.ytimg.com/vi/tdJ7ojHWiVs/maxresdefault.jpg",
-	 "title": "Introduction: Setting the Stage",
-	 "text": "Briefly introduce Garry's Mod as a sandbox game developed by Facepunch Studios
-Highlight its unique features, such as the absence of predefined goals and the emphasis on user-generated content.",
+	 "image": "https://1.bp.blogspot.com/-TDL6cGNMpxc/VOTbC_XQ5pI/AAAAAAAAAIg/4lAorp11_eo/s1600/5.jpg",
+	 "title": "The Sandbox Experience",
+	 "text": "Garry's Mod, often abbreviated as GMod, stands as a testament to the limitless possibilities of sandbox gaming. Created by Garry Newman and his team, this game has evolved into a vibrant platform for creativity and multiplayer fun. Let's delve into the diverse gameplay experiences that make GMod a unique and enduring favorite among gamers.",
 	 "text_two": "",
 
 	 "isLocked": false,
@@ -58,9 +57,9 @@ Highlight its unique features, such as the absence of predefined goals and the e
 
 	},
 	{
-	 "image": "https://i.imgur.com/GhPje3v.jpg",
+	 "image": "https://steamuserimages-a.akamaihd.net/ugc/1823400596102456194/31036E95D25CA90E928842F5954019233F2CCE8E/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
 	 "title": "A Brief History of Garry's Mod",
-	 "text": "Provide a brief overview of the game's development and how it evolved over the years Mention key milestones, updates, and the community's role in shaping the game.",
+	 "text": "At its core, Garry's Mod is a sandbox game that empowers players with a plethora of tools and assets to create, manipulate, and experiment. Whether you're building intricate structures, crafting custom game modes, or staging cinematic scenes, the sandbox experience in GMod is unparalleled. The freedom to spawn objects, manipulate physics, and tinker with in-game elements fosters an environment where imagination knows no bounds.",
 	 "text_two": "",
 
 	 "isLocked": true,
@@ -68,10 +67,11 @@ Highlight its unique features, such as the absence of predefined goals and the e
 	 
 	},
 	{
-	 "image": "https://i.ytimg.com/vi/pLy3wJwLxPA/maxresdefault.jpg",
-	 "title": "Gameplay Mechanics",
-	 "text": "Explain the basic mechanics of Garry's Mod, including the sandbox environment, physics engine, and the diverse range of available tools
-Discuss how players can spawn objects, manipulate the environment, and create their own game modes.",
+	 "image": "https://images.gamebanana.com/img/ss/mods/103640a.jpg",
+	 "title": "2. Game Modes Galore ",
+	 "text": "GMod boasts an extensive array of game modes, each offering a distinct gameplay experience. From the classic sandbox mode where players can unleash their creativity to popular modes like Trouble in Terrorist Town (TTT) and DarkRP, there's something for every taste. TTT introduces an element of deception and deduction, while DarkRP immerses players in a virtual world where they can assume various roles and occupations.
+
+",
 	 "text_two": "",
 
 	 "isLocked": false,
@@ -79,7 +79,7 @@ Discuss how players can spawn objects, manipulate the environment, and create th
 
 	},
 	{
-	"image": "https://i.ytimg.com/vi/KHtPdKi1vy0/maxresdefault.jpg",
+	"image": "https://steamuserimages-a.akamaihd.net/ugc/1820018636975821706/8359DF12EDC7C9DB6822DFBA8A3EC411CAD007A5/?imw=512&amp;imh=289&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
 	 "title": "Community and Modding Scene",
 	 "text": "Emphasize the significance of the GMod community in contributing to the game's popularity
 Explore the vibrant modding scene and the plethora of user-created content, from new game modes to custom models and maps.",
@@ -90,8 +90,8 @@ Explore the vibrant modding scene and the plethora of user-created content, from
 
 	},
 	{
-	"image": "https://i.ytimg.com/vi/6G_YGsubp-I/maxresdefault.jpg",
-	 "title": "Popular Game Modes",
+	"image": "https://media.moddb.com/images/mods/1/18/17342/2011-03-10_00003.jpg",
+	 "title": " Modding Marvels",
 	 "text": "Highlight some of the most popular game modes within Garry's Mod, such as Trouble in Terrorist Town (TTT), DarkRP, and Prop Hunt
 Discuss what makes these game modes enjoyable and how they showcase the versatility of the GMod platform.",
 	 "text_two": "",
@@ -101,10 +101,9 @@ Discuss what makes these game modes enjoyable and how they showcase the versatil
 
 	},
 	{
-	"image": "https://i.ytimg.com/vi/vX1hj3tS_pw/maxresdefault.jpg",
+	"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2562f86a-47d0-4d91-8bcc-73845b7423c5/d4fqt8h-cdfc4074-f291-4a62-b162-6d5efc07aee2.jpg/v1/fill/w_1600,h_1000,q_75,strp/garry__s_mod_background_2_by_warlordgandhi-d4fqt8h.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yNTYyZjg2YS00N2QwLTRkOTEtOGJjYy03Mzg0NWI3NDIzYzUvZDRmcXQ4aC1jZGZjNDA3NC1mMjkxLTRhNjItYjE2Mi02ZDVlZmMwN2FlZTIuanBnIiwid2lkdGgiOiI8PTE2MDAiLCJoZWlnaHQiOiI8PTEwMDAifV1dfQ.dojt258vqTNRPcOAl-drkxkYhmlKgTwKAs-81IxbszA",
 	 "title": "Challenges and Criticisms",
-	 "text": "Address any challenges or criticisms the game has faced over the years
-Discuss how the development team has responded to community feedback and improved the game.",
+	 "text": "One of Garry's Mod's defining features is its robust modding community. The Steam Workshop is a treasure trove of user-created content, including new maps, game modes, and models. Mods extend the game's lifespan, ensuring that players always have fresh experiences to enjoy. Whether it's exploring meticulously crafted maps or participating in unconventional game modes, the modding scene elevates GMod's replayability to new heights",
 	 "text_two": "",
 
 	 "isLocked": false,
