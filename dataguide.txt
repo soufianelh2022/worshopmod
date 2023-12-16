@@ -20,11 +20,11 @@
   "applovin_native_id": "76d87171404718ed",
   "applovin_rewarded_id": "6405227d47f8fe55",
   
-  "yandex_banner_id": "R-M-2376521-1",
-  "yandex_interstitial_id": "R-M-2376521-3",
-  "yandex_native_id": "R-M-2376521-2",
-  "yandex_rewarded_id": "R-M-2376521-4",
-  "yandex_open_app": "demo-appopenad-yandex",
+  "yandex_banner_id": "R-M-4511092-1",
+  "yandex_interstitial_id": "R-M-4511092-3",
+  "yandex_native_id": "R-M-4511092-2",
+  "yandex_rewarded_id": "R-M-4511092-4",
+  "yandex_open_app": "R-M-4511092-5",
   
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
