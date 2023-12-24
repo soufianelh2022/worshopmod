@@ -1,6 +1,6 @@
 {
 	
-  "ironSource_app_key": "156591b31",
+  "ironSource_app_key": "1cfb12c0d",
   "ironSource_banner_id": "DefaultBanner",
   "ironSource_interstitial_id": "DefaultInterstitial",
   "ironsource_rewarded_id": "DefaultRewarded",
@@ -36,10 +36,10 @@
   "Ads Explanation": " yandex | applovin | admob | facebook | ironSource | unity ",
 
 
-  "Interstitial": "yandex",
+  "Interstitial": "ironSource",
   "Banner": "yandex",
   "Native": "yandex",
-  "Rewarded": "yandex",
+  "Rewarded": "ironSource",
   
   "clicks_to_show_inter": 1,
   "native_rate": 2,
